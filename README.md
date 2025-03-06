@@ -1,1 +1,9 @@
-# SIH-2024
+Developed an immersive VR-based learning tool designed to empower children with Autism Spectrum Disorder (ASD) and Intellectual Disabilities (ID) by enhancing cognitive, social, and motor skills. Using Unity and AR/VR technology, this project creates a safe, engaging environment where learning is gamified and tailored to individual needs. 🎮🌟
+
+At the core of the project are interactive modules that incorporate AI-driven emotion recognition. This innovative feature adapts in real-time to the child's emotional responses, providing personalized feedback and adjusting the difficulty of tasks. As children engage with activities such as emotion identification, problem-solving challenges, and motor coordination exercises, the system continuously tracks their progress and adapts to maximize learning outcomes. 🤖📈
+
+Key elements include intuitive navigation, visually appealing interfaces, and sensory-friendly environments designed to accommodate sensitivities. The gamified approach not only makes learning fun but also builds confidence and communication skills. Collaboration with educators and therapists was pivotal, ensuring the content is both pedagogically sound and practically effective. 🧠💬
+
+This project’s impact was nationally recognized when it was selected as a finalist in Smart India Hackathon 2024, highlighting its potential as a breakthrough in assistive technology. The blend of cutting-edge VR and adaptive AI showcases the power of technology to create inclusive educational experiences that foster growth and development in children with special needs. 🚀🏆
+
+Overall, the Interactive Skill Enhancer stands as a testament to innovation in educational technology, merging immersive VR with personalized learning strategies to create a transformative tool for children with ASD/ID. Its successful implementation demonstrates not only technical expertise but also a deep commitment to making a positive, real-world impact. 🌈💡
