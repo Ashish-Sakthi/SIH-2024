@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Main/Lobby/Lobby.unity
+    guid: f8a9157b4e1e1ef439f8549681781b62
+  - enabled: 1
+    path: Assets/_Main/Emotion/Emotion.unity
+    guid: bdc98c7264c5d6d42b3d10abcda805c3
+  - enabled: 1
+    path: Assets/_Main/AI/Food.unity
+    guid: 9b3a7a51f07393d48879da13424f9fcf
+  - enabled: 1
+    path: Assets/Ashish/Puzzle Assets/Scenes/PUZZLE.unity
+    guid: e9cf7de53c85ea047a1093383251d2eb
+  - enabled: 1
+    path: Assets/_Main/Social response/Meeting.unity
+    guid: f43b5900e0e602c4db8a8b3d32a4bc5b
+  - enabled: 1
+    path: Assets/Ashish/Maths Operations/Maths.unity
+    guid: f08fed95e817d1040bd5fea570d9e7b0
+  - enabled: 0
+    path: Assets/SimpleLowPolyNature/Scenes/Animal.unity
+    guid: 14bde5446c7af90409f2f01f30269b9e
+  - enabled: 1
+    path: Assets/_Main/AI/Daily.unity
+    guid: 04ec89a3f94022f4190a3f9afd84e949
+  - enabled: 1
+    path: Assets/Ashish/Seperation Assets/Scenes/DRM 1.unity
+    guid: f5d8a2638be96e140ad46fdde61c6715
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d1dc18c86f47f654591c56c718c12106,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 80c14b18e5585334d8e7862105dd27a2,
+      type: 2}

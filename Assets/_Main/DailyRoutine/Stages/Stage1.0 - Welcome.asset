@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 941328fd0524ba74bba9a89b8ff773e4, type: 3}
+  m_Name: Stage1.0 - Welcome
+  m_EditorClassIdentifier: 
+  stepSubtitle: "Let\u2019s gather everything we need: two slices of bread, pre-cut
+    vegetables like lettuce, tomato, and cucumber, and a sandwich maker machine.
+    Don\u2019t forget a plate!"
+  stepAudio: {fileID: 8300000, guid: 074e3cf78d9436745b6ecc745174089b, type: 3}
+  helpText: Look for two slices of bread, pre-cut vegetables, a sandwich maker, and
+    a plate.
+  helpAudio: {fileID: 8300000, guid: 260ca1019d7550b46a97eb6c73b662bc, type: 3}
+  completionType: 0
+  helpDelay: 30
